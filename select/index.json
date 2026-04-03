@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "INNOCENT TIME",
+  "base_artist": "杏里",
+  "createdAt": "2026-04-03T09:07:00.447813Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "INNOCENT TIME",
+      "artist": "Anri",
+      "has_synced": false,
+      "path": "select/01_INNOCENT_TIME_Anri.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "INNOCENT TIME",
+      "artist": "杏里",
+      "has_synced": false,
+      "path": "select/02_INNOCENT_TIME_杏里.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "INNOCENT TIME",
+      "artist": "杏里",
+      "has_synced": true,
+      "path": "select/03_INNOCENT_TIME_杏里.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "INNOCENT TIME",
+      "artist": "ANRI (杏里)",
+      "has_synced": true,
+      "path": "select/04_INNOCENT_TIME_ANRI_(杏里).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "INNOCENT TIME",
+      "artist": "Anri",
+      "has_synced": true,
+      "path": "select/05_INNOCENT_TIME_Anri.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Innocent Time",
+      "artist": "杏里",
+      "has_synced": false,
+      "path": "select/06_Innocent_Time_杏里.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "INNOCENT TIME",
+      "artist": "杏里",
+      "has_synced": false,
+      "path": "select/pl_01_INNOCENT_TIME_杏里.txt"
+    }
+  ]
+}
